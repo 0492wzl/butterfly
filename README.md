@@ -1,4 +1,4 @@
 butterfly
 =========
 
-something exist  old can show irrecysable fantasy
+something exist  old can show irrecusable fantasy
