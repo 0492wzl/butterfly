@@ -22,3 +22,15 @@ C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕�
 C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.exe
 C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.pdb
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.exe
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.pdb
+F:\xiangu\butterfly\butterfly\bin\Debug\毕业实习分配系统.exe
+F:\xiangu\butterfly\butterfly\bin\Debug\毕业实习分配系统.pdb
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.Form1.resources
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.Form2.resources
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.Form3.resources
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.Form4.resources
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\毕业实习分配系统.Properties.Resources.resources
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\xiangu\butterfly\butterfly\obj\x86\Debug\GenerateResource.write.1.tlog
