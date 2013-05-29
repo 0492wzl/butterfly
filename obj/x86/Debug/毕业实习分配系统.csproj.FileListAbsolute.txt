@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\bin\Debug\毕业实习分配系统.exe
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\bin\Debug\毕业实习分配系统.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.exe
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form2.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form3.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form4.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\bin\Debug\毕业实习分配系统.exe
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\bin\Debug\毕业实习分配系统.pdb
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form1.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form2.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form3.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Form4.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.exe
+C:\Users\Administrator\Desktop\实习分配系统\毕业实习分配系统\毕业实习分配系统\obj\x86\Debug\毕业实习分配系统.pdb
