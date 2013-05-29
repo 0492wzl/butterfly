@@ -25,7 +25,7 @@ namespace 毕业实习分配系统
 
         private void gettreeview()
         {
-            string constr = " Data Source = 222.16.85.162; DataSource =实习单位（公司）AND 实习单位（医院）; User ID =sa; PWD =123";
+            string constr = " Data Source = 222.16.85.162; DataSource =实习单位; User ID =sa; PWD =123";
             SqlConnection con = new SqlConnection(constr);
             con.Open();
             string sqlstr = " select * from 实习单位（公司）";
@@ -63,8 +63,8 @@ namespace 毕业实习分配系统
                 }
             }
             //展开所有结点并且光标返回根结点
-            //treeView1.ExpandAll();
-            //treeView1.SelectedNode = treeView1.TopNode;
+            treeView1.ExpandAll();
+            treeView1.SelectedNode = treeView1.TopNode;
         }
 
 
